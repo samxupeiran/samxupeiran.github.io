@@ -4,9 +4,8 @@ title: Python if not 用法
 category: 技术
 tags: sam
 ---
-
-### python中的not具体表示是什么：
-### 布尔型True和False，not True为False，not False为True，以下是几个常用的not的用法：
+#### python中的not具体表示是什么：
+#### 布尔型True和False，not True为False，not False为True，以下是几个常用的not的用法：
 ---
 (1) not与逻辑判断句if连用，代表not后面的表达式为False的时候，执行冒号后面的语句。比如：
 ```
