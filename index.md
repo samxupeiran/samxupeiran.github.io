@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My Blog
 ---
 
 ## 写在前面
