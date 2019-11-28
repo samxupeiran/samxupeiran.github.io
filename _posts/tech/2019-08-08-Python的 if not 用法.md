@@ -2,7 +2,7 @@
 layout: post
 title: Python if not 用法
 category: 技术
-tags: sam
+tags: Python
 ---
 #### python中的not具体表示是什么：
 #### 布尔型True和False，not True为False，not False为True，以下是几个常用的not的用法：
