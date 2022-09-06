@@ -1,0 +1,48 @@
+# Site settings
+title: Peiran Xu's Blog
+email: xupeiran.sam@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Peiran Xu's Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yansu.org" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Peiran Xu
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+#twitter: masonsuyan
+github: samxupeiran
+# codepen:  username
+# dribbble: username
+
+# avatar头像及Favicon
+avatar: https://avatars3.githubusercontent.com/u/8045289?v=3&s=400 
+favicon: https://avatars3.githubusercontent.com/u/8045289?v=3&s=400
+
+# disqus 设置
+# disqus:
+#   shortname: Peiran Xu
+
+# google analytics 设置
+# ga:
+#  id: UA-54767140-1
+#  url: yansu.org
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# # Jekyll Plugin
+# # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
