@@ -8,7 +8,7 @@ layout: post
 Hi there!
 I am Peiran Xu, a QA Software Engineer. This is my blog, a place for me to write about my Life and Software.
 
-It is my greatest pleasure that you find this tiny place in this enormous world. So if you want to know more about me as a person, you can come here. And feel free to contact me via <a href="mailto:xupeiran.sam@gmail.com">email</a>. I would be glad to chat.
+It is my greatest pleasure that you find this tiny place in this enormous world. So if you want to know more about me as a person, you can come here. And feel free to contact me via <a href="mailto:xupeiran.sam@gmail.com">Email</a>. I would be glad to chat.
 
 Thank for your visiting!
 ## Blog
